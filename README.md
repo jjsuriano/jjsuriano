@@ -1,5 +1,5 @@
-### Hi there 👋
+### Hello World! 👋
 
-My name is Julio and I am Virginia Tech alumnus.
+My name is Julio and I am a Software Engineer with experience leading teams focused on process optimization.
 
-I am a Software engineer with experience leading teams focused on process optimization. I consider myself a data-driven person with integrity, creativity and the ability to communicate in Spanish and English. Additionally, I possess a strong motivation to continue learning to improve my soft and hard skills. I have a passion for technology and innovation.
+I consider myself a data-driven person with integrity, creativity and the ability to communicate in Spanish and English. Additionally, I possess a strong motivation to continue learning to improve my soft and hard skills. I have a passion for technology and innovation.
